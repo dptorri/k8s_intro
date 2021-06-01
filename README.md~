@@ -1,0 +1,18 @@
+# k8s intro
+
+Some introductory commands in minikube and examples.
+Note: `kubectl`  uses the alias `k` for simplicity
+
+## How to setup Minikube :package:
+
+`minikube start --vm-driver=hyperkit`
+
+## Minikube commands
+
+- `k start`
+
+- `k get nodes`
+
+- `minikube status`
+
+- `k version`
