@@ -3,9 +3,9 @@
 Some introductory commands in minikube and examples.
 Note: `kubectl`  uses the alias `k` for simplicity
 
-## How to setup Minikube :package:
+## How to setup Minikube (OSX) :package:
 
-- `minikube start --vm-driver=hyperkit`
+- `minikube start --hyperv-virtual-switch=minikube`
 
 - `minikube status`
 
@@ -16,8 +16,6 @@ Note: `kubectl`  uses the alias `k` for simplicity
 - `minikube delete`
 
 ## Kubectl commands
-
-- `k start`
 
 - `k get nodes`
 
