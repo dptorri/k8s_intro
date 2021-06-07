@@ -7,4 +7,4 @@ Note: `kubectl`  uses the alias `k` for simplicity
 
 - [Kubectl](https://github.com/dptorri/k8s_intro/blob/master/kubectl.md)
 
-- [Helm Charts](https://github.com/dptorri/k8s_intro/blob/master/helm-charts.md)
+- [Helm Charts](https://github.com/dptorri/k8s_intro/blob/master/helm-guide/helm-charts.md)
