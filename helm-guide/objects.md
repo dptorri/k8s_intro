@@ -1,4 +1,4 @@
-- [Back](https://github.com/dptorri/k8s_intro/README.md)
+- [Back](https://github.com/dptorri/k8s_intro/blob/master/README.md)
 
 ### Built-in Objects
 

@@ -4,3 +4,7 @@ metadata:
   name: {{ .Release.Name }}-configmap
 data:
   myvalue: "Hello World"
+  username: {{ .Values.usernameDB | quote }}
+  {{- if eq .Values.usernameDB "superAdminDB" }}
+  mug: true
+  {{- end }}
